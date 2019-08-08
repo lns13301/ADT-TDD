@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MyListTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-08-08T06:17:30" hostname="DESKTOP-0RH6NSA" time="0.005">
+  <properties/>
+  <testcase name="testMyListIterator" classname="MyListTest" time="0.005"/>
+  <system-out><![CDATA[Hello
+Bye
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
