@@ -142,4 +142,8 @@ public class MyListTest {
             System.out.println(itr.next());
         }
     }
+    @Test
+    public void testGitPush(){
+        System.out.println("TestGitPush");
+    }
 }

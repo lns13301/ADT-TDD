@@ -1,9 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="MyListTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-08-08T06:17:30" hostname="DESKTOP-0RH6NSA" time="0.005">
+<testsuite name="MyListTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2019-08-08T06:40:27" hostname="DESKTOP-ARL8TJG" time="0.012">
   <properties/>
-  <testcase name="testMyListIterator" classname="MyListTest" time="0.005"/>
+  <testcase name="testMyListAddIndex" classname="MyListTest" time="0.002"/>
+  <testcase name="testMyListAdd" classname="MyListTest" time="0.0"/>
+  <testcase name="testMyListIndex" classname="MyListTest" time="0.0"/>
+  <testcase name="testListAdd" classname="MyListTest" time="0.0"/>
+  <testcase name="testMyListAddAllIndex" classname="MyListTest" time="0.001"/>
+  <testcase name="test" classname="MyListTest" time="0.006"/>
+  <testcase name="testMyListIterator" classname="MyListTest" time="0.001"/>
+  <testcase name="testMyListRemoveAll" classname="MyListTest" time="0.0"/>
+  <testcase name="testMyListAddAll" classname="MyListTest" time="0.0"/>
+  <testcase name="testMyList" classname="MyListTest" time="0.0"/>
+  <testcase name="testMyListRemove" classname="MyListTest" time="0.0"/>
   <system-out><![CDATA[Hello
 Bye
-]]></system-out>
+Hello
+Bye
+Num0HelloWorldNum1Num2Num3]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
